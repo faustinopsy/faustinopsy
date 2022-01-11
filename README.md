@@ -12,7 +12,7 @@
   <img align="center" alt="faustinopsy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="faustinopsy-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="faustinopsy-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
- 
+ <img align="right" alt="Rafa-pic" height="150" src="https://github.com/FaustinoPsy/faustinopsy/blob/main/super.jpg" style="max-width: 100%;">
   
 
 </div>
