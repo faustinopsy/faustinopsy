@@ -1,4 +1,5 @@
 ## Olá eu sou a Rodrigo Faustino, aprendendo, amadurecendo, evoluindo a me adaptando!
+![Metrics](https://metrics.lecoq.io/faustinopsy?template=classic&isocalendar=1&stars=1&languages=1&activity=1&pagespeed=1&tweets=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FSao_Paulo)
 
 
 <div align="center">
@@ -30,5 +31,5 @@
 ![Snake animation](https://github.com/faustinopsy/faustinopsy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![Metrics](https://metrics.lecoq.io/faustinopsy?template=classic&isocalendar=1&stars=1&languages=1&activity=1&pagespeed=1&tweets=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FSao_Paulo)
+
 
