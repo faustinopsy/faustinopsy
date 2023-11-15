@@ -1,4 +1,7 @@
-## A vida é como a dança, deve ser vivida de acordo com o ritmo do momento. 
+## "Mas quem sofre sempre tem que procurar
+## Pelo menos vir achar
+## Razão para viver". 
+- Sebastiao Rodrigues Maia
 
 
 
