@@ -1,9 +1,3 @@
-## "Mas quem sofre sempre tem que procurar
-## Pelo menos vir achar
-## Razão para viver". 
-- Sebastiao Rodrigues Maia
-
-
 
 <div align="center">
   <a href="https://github.com/faustinopsy">
