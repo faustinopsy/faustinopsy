@@ -14,7 +14,16 @@
   <img align="center" alt="faustinopsy-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer">
   <img align="center" alt="faustinopsy-mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
  <img align="right" alt="faustinopsy-pic" height="150" src="https://github.com/FaustinoPsy/faustinopsy/blob/main/super.jpg" style="max-width: 100%;" >
-
+<table class="framed light" border="" align="right">
+<tbody><tr>
+<td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<hr>
+<b><a href="https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html">PHP CRUD MVC</a><br>
+By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
+<a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br><b><span style="font-size: large">October 2023<br>
+Winner</span></b></td>
+</tr>
+</tbody></table>
 
 </div>
   
