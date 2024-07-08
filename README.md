@@ -20,10 +20,13 @@
   
  ![](https://komarev.com/ghpvc/?username=faustinopsy&style=flat-square)
 <div> 
-  <a href="https://www.youtube.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <table class="framed light" border="" align="right">
+  <tbody><tr>
+  <td><a href="https://www.youtube.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></td>
+  <td><a href="https://instagram.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></td>
+  <td><a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </td>
+</tr>
+</tbody></table>
 <table class="framed light" border="" align="left">
 <tbody><tr>
 <td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
@@ -34,7 +37,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 Winner</span></b></td>
 </tr>
 </tbody></table>
-<table class="framed light" border="" align="right">
+<table class="framed light" border="" align="left">
 <tbody><tr>
 <td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
 <hr>
