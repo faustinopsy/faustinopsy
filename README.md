@@ -15,6 +15,15 @@
   <img align="center" alt="faustinopsy-SQLServer" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer">
   
  <img align="right" alt="faustinopsy-pic" height="150" src="https://github.com/FaustinoPsy/faustinopsy/blob/main/super.jpg" style="max-width: 100%;" >
+
+</div>
+  
+ ![](https://komarev.com/ghpvc/?username=faustinopsy&style=flat-square)
+<div> 
+  <a href="https://www.youtube.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <table class="framed light" border="" align="right">
 <tbody><tr>
 <td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
@@ -35,15 +44,6 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 Winner</span></b></td>
 </tr>
 </tbody></table>
-</div>
-  
- ![](https://komarev.com/ghpvc/?username=faustinopsy&style=flat-square)
-<div> 
-  <a href="https://www.youtube.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/faustinopsy/faustinopsy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
