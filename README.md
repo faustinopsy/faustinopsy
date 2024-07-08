@@ -24,7 +24,7 @@
   <a href="https://instagram.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<table class="framed light" border="" align="right">
+<table class="framed light" border="" align="left">
 <tbody><tr>
 <td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
 <hr>
