@@ -25,7 +25,16 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 Winner</span></b></td>
 </tr>
 </tbody></table>
-
+<table class="framed light" border="" align="right">
+<tbody><tr>
+<td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<hr>
+<b><a href="[https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html](https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html)">Back FaceX</a><br>
+By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
+<a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br><b><span style="font-size: large">May 2024<br>
+Winner</span></b></td>
+</tr>
+</tbody></table>
 </div>
   
  ![](https://komarev.com/ghpvc/?username=faustinopsy&style=flat-square)
