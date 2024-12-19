@@ -6,15 +6,15 @@
     
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="faustinopsy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" alt="faustinopsy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
-  <img align="center" alt="faustinopsy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT">       <----||---->
-   <img align="center" alt="faustinopsy-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-   <img align="center" alt="faustinopsy-python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python">
-  <img align="center" alt="faustinopsy-node" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="node">             <----||---->
-  <img align="center" alt="faustinopsy-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
-  <img align="center" alt="faustinopsy-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql">
-  <img align="center" alt="faustinopsy-SQLServer" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer">
+  <img align="center" alt="faustinopsy-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="faustinopsy-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="faustinopsy-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT">       <----||---->
+   <img align="center" alt="faustinopsy-php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
+   <img align="center" alt="faustinopsy-python" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python">
+  <img align="center" alt="faustinopsy-node" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="node">             <----||---->
+  <img align="center" alt="faustinopsy-mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
+  <img align="center" alt="faustinopsy-postgresql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql">
+  <img align="center" alt="faustinopsy-SQLServer" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer">
  
 </div>
   
