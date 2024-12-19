@@ -23,16 +23,16 @@
 
 ```plaintext
 +----------+    |    +-------+    |    +--------+    |    +-----------+
-| Frontend |    |    |  API  |    |    |Backend |    |    | Database  |
+| Frontend |    |    |  API  |    |    | Backend|    |    | Database  |
 | client   | <--|--> | server| <--|--> | server | <--|--> |           |
 +----------+    |    +-------+    |    +--------+    |    +-----------+
      |          |        |        |         |        |          |
      |          |        |        |         |        |          |
      v          |        v        |         v        |          v
 +---------+     |   +--------+    |    +---------+   |    +-----------+
-| HTML+CSS |    |   |  PHP   |    |    |   PHP   |   |    |  MySQL    |
-|JAVASCRIPT|    |   | Python |    |    | Python  |   |    | POSTGRES  |
-|   or     |    |   |  Node  |    |    |  Node   |   |    |SQLSERVER  |
+| HTML+CSS |    |   |  PHP   |    |    |  PHP    |   |    |   MySQL   |
+|JAVASCRIPT|    |   | Python |    |    | Python  |   |    |  POSTGRES |
+|   or     |    |   |  Node  |    |    |  Node   |   |    | SQLSERVER |
 |React/Vue |    |   |        |    |    |         |   |    |           |
 +---------+     |   +--------+    |    +---------+   |    +-----------+
 ```
