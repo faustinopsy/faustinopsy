@@ -27,14 +27,15 @@
 | client   | <--|--> | server| <--|--> | server | <--|--> |           |
 +----------+    |    +-------+    |    +--------+    |    +-----------+
      |          |        |        |         |        |          |
-     |          |        |        |         |        |          |
+     |          |        |        |         |        |          |                
      v          |        v        |         v        |          v
 +---------+     |   +--------+    |    +---------+   |    +-----------+
 | HTML+CSS |    |   |  PHP   |    |    |  PHP    |   |    |   MySQL   |
-|JAVASCRIPT|    |   | Python |    |    | Python  |   |    |  POSTGRES |
+|JAVASCRIPT|    |   | Python |    |    | Python  |   |    | PostgreSQL|
 |   or     |    |   |  Node  |    |    |  Node   |   |    | SQLSERVER |
 |React/Vue |    |   |        |    |    |         |   |    |           |
 +---------+     |   +--------+    |    +---------+   |    +-----------+
+    😃                 🤔                 😶                 🤕
 ```
   <table class="f
   ramed light" border="" align="right">
