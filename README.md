@@ -50,24 +50,54 @@
 <table class="framed light" border="" align="left">
 <tbody>
 <tr>
-<td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<td align="center">
+<a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
+<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
 <hr>
 <b><a href="https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html">PHP CRUD MVC</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
-<a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br><b><span style="font-size: large">October 2023<br>
-Winner</span></b></td>
+<a href="https://www.phpclasses.org/award/innovation/">
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<b><span style="font-size: large">October 2023<br>Winner</span></b>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+
 <table class="framed light" border="" align="left">
-<tbody><tr>
-<td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<tbody>
+<tr>
+<td align="center">
+<a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
+<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
 <hr>
-<b><a href="[https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html](https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html)">Back FaceX</a><br>
+<b><a href="https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html">Back FaceX</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
-<a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br><b><span style="font-size: large">May 2024<br>
-Winner</span></b></td>
+<a href="https://www.phpclasses.org/award/innovation/">
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<b><span style="font-size: large">May 2024<br>Winner</span></b>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+
+<table class="framed light" border="" align="left">
+<tbody>
+<tr>
+<td align="center">
+<a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
+<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<hr>
+<b><a href="https://www.phpclasses.org/package/13416-PHP-Authenticate-users-fingerprints-using-WebAuthn.html">Digital</a><br>
+By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
+<a href="https://www.phpclasses.org/award/innovation/">
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<b><span style="font-size: large">December 2024<br>Winner</span></b>
+</td>
+</tr>
+</tbody>
+</table>
+
  
 </div>
 
