@@ -66,7 +66,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 
 <table class="framed light" border="" align="left">
 <tbody>
-<tr>
+<tr><br><br>
 <td align="center">
 <a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
 <img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br><br>
@@ -83,7 +83,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 
 <table class="framed light" border="" align="left">
 <tbody>
-<tr>
+<tr><br><br>
 <td align="center">
 <a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
 <img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
