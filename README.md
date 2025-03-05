@@ -38,7 +38,7 @@
     😃                 🤔                 😶                 🤕
 ```
   <table class="f
-  ramed light" border="" align="right">
+  ramed light" border="" align="left">
   <tbody><tr>
   <td><a href="https://www.youtube.com/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></td>
   <td><a href="https://www.linkedin.com/in/faustinopsy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </td>
