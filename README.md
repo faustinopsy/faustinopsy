@@ -57,7 +57,7 @@
 <b><a href="https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html">PHP CRUD MVC</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
 <a href="https://www.phpclasses.org/award/innovation/">
-<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
 <b><span style="font-size: large">October 2023<br>Winner</span></b>
 </td>
 </tr>
@@ -74,7 +74,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 <b><a href="https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html">Back FaceX</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
 <a href="https://www.phpclasses.org/award/innovation/">
-<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="89" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
 <b><span style="font-size: large">May 2024<br>Winner</span></b>
 </td>
 </tr>
@@ -91,7 +91,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 <b><a href="https://www.phpclasses.org/package/13416-PHP-Authenticate-users-fingerprints-using-WebAuthn.html">Digital</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
 <a href="https://www.phpclasses.org/award/innovation/">
-<img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
 <b><span style="font-size: large">December 2024<br>Winner</span></b>
 </td>
   <td align="center">
@@ -101,7 +101,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 <b><a href="https://www.phpclasses.org/package/13438-PHP-Automate-the-creation-of-PHP-REST-APIs.html">FastBackPHP</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
 <a href="https://www.phpclasses.org/award/innovation/">
-<img src="https://www.phpclasses.org/award/innovation/winner.png" width="89" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
+<img src="https://www.phpclasses.org/award/innovation/winner.png" width="80" height="80" alt="PHP Programming Innovation award winner" title="PHP Programming Innovation award winner" border="0"></a><br>
 <b><span style="font-size: large">January  2025<br>Winner</span></b>
 </td>
 </tr>
