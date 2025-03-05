@@ -52,7 +52,7 @@
 <tr>
 <td align="center">
 <a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
-<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br><br>
 <hr>
 <b><a href="https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html">PHP CRUD MVC</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
@@ -69,7 +69,7 @@ By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faust
 <tr>
 <td align="center">
 <a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes">
-<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>
+<img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br><br>
 <hr>
 <b><a href="https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html">Back FaceX</a><br>
 By <a href="https://www.phpclasses.org/browse/author/1569912.html">Rodrigo Faustino</a></b><br>
