@@ -6,7 +6,7 @@ Sou um desenvolvedor Full Stack com experiência em criar soluções inovadoras 
 🎓 **Formação Acadêmica**  
 - **Graduação:** Análise e Desenvolvimento de Sistemas.  
 - **Pós-Graduação (Lato Sensu):** Inteligência Artificial e Machine Learning.  
-- **Mestrado (Stricto Sensu):** Informática e Gestão do Conhecimento (em andamento).
+- **Mestrando em andamento (Stricto Sensu):** Informática e Gestão do Conhecimento (em andamento).
 
 👨‍🏫 **Experiência como Professor**  
 Atualmente sou professor na **FATEC Itaquera**, onde gerenciei diversos projetos com alunos estagiários. Um dos destaques foi a reformulação do site da faculdade, tornando-o responsivo e implementando melhorias significativas em **funcionalidades de performance e segurança**.
