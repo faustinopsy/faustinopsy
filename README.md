@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Rodrigo Faustino (faustinopsy)
+# 👋 eu sou Rodrigo Faustino (faustinopsy)
 
-🎯 **Sobre Mim**  
+**Sobre Mim**  
 Sou um desenvolvedor Full Stack com experiência em criar soluções inovadoras e escaláveis. Apaixonado por tecnologias backend e machine learning, trabalho principalmente com **PHP**, **Python**, **Node.js**, e bancos de dados como **MySQL** e **PostgreSQL**.
 
 🎓 **Formação Acadêmica**  
@@ -8,16 +8,16 @@ Sou um desenvolvedor Full Stack com experiência em criar soluções inovadoras 
 - **Pós-Graduação (Lato Sensu):** Inteligência Artificial e Machine Learning.  
 - **Mestrando (Stricto Sensu):** Informática e Gestão do Conhecimento (em andamento).
 
-👨‍🏫 **Experiência como Professor**  
+**Experiência como Professor**  
 Atualmente sou professor na **FATEC Itaquera**, onde gerenciei diversos projetos com alunos estagiários. Um dos destaques foi a reformulação do site da faculdade, tornando-o responsivo e implementando melhorias significativas em **funcionalidades de performance e segurança**.
 
-🏆 **Prêmios e Reconhecimentos**  
+ **Prêmios e Reconhecimentos**  
 - **Vencedor do PHP Programming Innovation Award** - Outubro de 2023, Maio de 2024, Dezembro de 2024, Janeiro de 2025.  
 - Autor de pacotes inovadores como [PHP CRUD MVC](https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html), [Back FaceX](https://www.phpclasses.org/package/13102-PHP-Recognize-students-using-their-face-pictures.html) e outros.
 
 ---
 
-💻 **Habilidades Técnicas**  
+ **Habilidades Técnicas**  
 - **Linguagens:** PHP, JavaScript, Python, SQL  
 - **Frameworks:** Laravel, Node.js, FastAPI  
 - **Bancos de Dados:** MySQL, PostgreSQL, SQLServer  
@@ -25,7 +25,7 @@ Atualmente sou professor na **FATEC Itaquera**, onde gerenciei diversos projetos
 
 ---
 
-📂 **Projetos de Destaque**  
+ **Projetos de Destaque**  
 Aqui estão alguns dos meus projetos mais relevantes:
 
 1. **[PHP CRUD MVC](https://www.phpclasses.org/package/13018-PHP-Develop-applications-that-provide-CRUD-interfaces.html)**  
@@ -50,7 +50,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 ---
 
-📫 **Contato**  
+ **Contato**  
 - **Email:** contato@faustinopsy.com  
 - **LinkedIn:** [linkedin.com/in/faustinopsy](https://www.linkedin.com/in/faustinopsy)  
 - **YouTube:** [youtube.com/faustinopsy](https://www.youtube.com/faustinopsy)  
