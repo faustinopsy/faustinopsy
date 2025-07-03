@@ -1,4 +1,4 @@
-# 👋 eu sou Rodrigo Faustino (faustinopsy)
+#  eu sou Rodrigo Faustino (faustinopsy)
 
 **Sobre Mim**  
 Sou um desenvolvedor Full Stack com experiência em criar soluções inovadoras e escaláveis. Apaixonado por tecnologias backend e machine learning, trabalho principalmente com **PHP**, **Python**, **Node.js**, e bancos de dados como **MySQL** e **PostgreSQL**.
