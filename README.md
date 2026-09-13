@@ -9,7 +9,7 @@ Sou um desenvolvedor Full Stack com experiência em criar soluções inovadoras 
 - **Mestrando (Stricto Sensu):** Informática e Gestão do Conhecimento (em andamento).
 
 **Experiência como Professor**  
-Atualmente sou professor na **FATEC Itaquera**, onde gerenciei diversos projetos com alunos estagiários. Um dos destaques foi a reformulação do site da faculdade, tornando-o responsivo e implementando melhorias significativas em **funcionalidades de performance e segurança**.
+Atualmente sou professor na **Fatec Mogi das Cruzes e Fatec Zona Leste e Senac**, onde gerenciei diversos projetos com alunos estagiários. Um dos destaques foi a reformulação do site da faculdade Fatec Itaquera, tornando-o responsivo e implementando melhorias significativas em **funcionalidades de performance e segurança**.
 
  **Prêmios e Reconhecimentos**  
 - **Vencedor do PHP Programming Innovation Award** - Outubro de 2023, Maio de 2024, Dezembro de 2024, Janeiro de 2025.  
